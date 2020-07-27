@@ -1,0 +1,62 @@
+body {
+    background-image: url(images/GetInTouch.png);
+}
+
+
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+
+.mainText{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    position: relative; top: 100px;
+}
+
+.number {
+    text-align: center;
+    font-size: 20px;
+    position: relative; top: 100px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+    position: relative; top: 180px;
+}
+
+.email {
+    text-align: center;
+    font-size: 20px;
+    position: relative; top: 180px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 30px;
+    position: relative; top: 300px;
+}
+
+.liveChat {
+    width: 200px;
+    display: flex;
+    position: relative; left: 560px; top: 300px;
+
+}
+
+.container3 {
+    background: rgb(77, 212, 149);
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    font-size: 25px;
+    
+}

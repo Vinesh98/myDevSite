@@ -1,0 +1,31 @@
+body {
+    background-image: url("images/MilkyWay2.jpg");
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+.mainText {
+    color: tomato;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px ;
+    position: relative; top: 200px;
+}
+
+#mainHeader {
+    color: rgb(11, 241, 42);
+    font-size: 100px;
+   text-align: center;
+}
+
+.container1 {
+    background: rgb(77, 212, 149);
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    font-size: 25px;
+    
+}
